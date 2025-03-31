@@ -4,56 +4,85 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d09d6d2-1145-4c5f-af96-50af646cd0c1" name="Changes" comment="dsa 1">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9d09d6d2-1145-4c5f-af96-50af646cd0c1" name="Changes" comment="BS using Recursion">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/FindUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/MagicNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/NumberOfDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/OddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DSA/PrimeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA-JAVA.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DSA-JAVA.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA/Recursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/DSA/Recursion.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Akul1306"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Akul1306&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Akul1306/DSA-JAVA.git",
-    "accountId": "dafecc13-dd71-4354-b047-ce1fbb5eee34"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Akul1306/DSA-JAVA.git&quot;,
+    &quot;accountId&quot;: &quot;dafecc13-dd71-4354-b047-ce1fbb5eee34&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2sRzsAkxp5A7Jc6uaz3Rmq7AP2n" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/akul6/IdeaProjects/DSA-JAVA/src",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/akul6/IdeaProjects/DSA-JAVA/src/Main.java",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BinarySearchWithRecursion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MagicNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumberOfDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OddEven.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.PrimeNumbers.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Recursion.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/akul6/IdeaProjects/DSA-JAVA/src&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/akul6/IdeaProjects/DSA-JAVA/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\akul6\IdeaProjects\DSA-JAVA\src" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -70,7 +99,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738433383359</updated>
-      <workItem from="1738433384451" duration="525000" />
+      <workItem from="1738433384451" duration="1933000" />
+      <workItem from="1738484253609" duration="1089000" />
+      <workItem from="1738610434589" duration="548000" />
+      <workItem from="1738820443155" duration="968000" />
+      <workItem from="1739043787343" duration="693000" />
+      <workItem from="1739080218758" duration="1661000" />
+      <workItem from="1739687837853" duration="2730000" />
+      <workItem from="1740042790924" duration="596000" />
+      <workItem from="1740378889702" duration="72000" />
+      <workItem from="1741014987116" duration="1378000" />
+      <workItem from="1742354781254" duration="1180000" />
+      <workItem from="1742494761005" duration="1530000" />
+      <workItem from="1742529347559" duration="595000" />
+      <workItem from="1742667573509" duration="2098000" />
+      <workItem from="1742843507750" duration="496000" />
+      <workItem from="1742919960178" duration="1382000" />
+      <workItem from="1742959312115" duration="4088000" />
+      <workItem from="1743052338435" duration="3105000" />
+      <workItem from="1743098652443" duration="969000" />
+      <workItem from="1743133896685" duration="2244000" />
     </task>
     <task id="LOCAL-00001" summary="dsa 1">
       <option name="closed" value="true" />
@@ -80,7 +128,39 @@
       <option name="project" value="LOCAL" />
       <updated>1738433909474</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dsa 1">
+      <option name="closed" value="true" />
+      <created>1738434070011</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738434070011</updated>
+    </task>
+    <task id="LOCAL-00003" summary="dsa 1">
+      <option name="closed" value="true" />
+      <created>1738434258074</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738434258074</updated>
+    </task>
+    <task id="LOCAL-00004" summary="recursion basic">
+      <option name="closed" value="true" />
+      <created>1738435647020</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738435647020</updated>
+    </task>
+    <task id="LOCAL-00005" summary="BS using Recursion">
+      <option name="closed" value="true" />
+      <created>1738610977747</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738610977747</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -88,15 +168,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dsa 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="dsa 1" />
+    <MESSAGE value="recursion basic" />
+    <MESSAGE value="BS using Recursion" />
+    <option name="LAST_COMMIT_MESSAGE" value="BS using Recursion" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DSA/OddEven.java</url>
+          <line>1</line>
+          <properties class="OddEven" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/DSA/PrimeNumbers.java</url>
+          <line>22</line>
+          <properties class="PrimeNumbers" method="isPrime1">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
